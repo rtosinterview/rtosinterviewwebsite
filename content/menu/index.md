@@ -2,15 +2,14 @@
 headless: true
 ---
 
-- [**Example Site**]({{< relref "/docs/example" >}})
-- [Table of Contents]({{< relref "/docs/example/table-of-contents" >}})
-  - [With ToC]({{< relref "/docs/example/table-of-contents/with-toc" >}})
-  - [Without ToC]({{< relref "/docs/example/table-of-contents/without-toc" >}})
-- [Collapsed]({{< relref "/docs/example/collapsed" >}})
-  - [3rd]({{< relref "/docs/example/collapsed/3rd-level" >}})
-    - [4th]({{< relref "/docs/example/collapsed/3rd-level/4th-level" >}})
-<br />
-
+- **RTOS**
+- [**Task Management**]({{< relref "/docs/example/table-of-contents" >}})
+- [**Critiical Section**]({{< relref "/docs/example/table-of-contents" >}})
+- [**Scheduling**]({{< relref "/docs/example/table-of-contents" >}})
+- [**Timers**]({{< relref "/docs/example/table-of-contents/with-toc" >}})
+- [**Interrupts**]({{< relref "/docs/example/table-of-contents/without-toc" >}})
+- [**Messageing**]({{< relref "/docs/example/collapsed" >}})
+<!---
 - **Shortcodes**
 - [Buttons]({{< relref "/docs/shortcodes/buttons" >}})
 - [Columns]({{< relref "/docs/shortcodes/columns" >}})
@@ -19,4 +18,4 @@ headless: true
 - [Katex]({{< relref "/docs/shortcodes/katex" >}})
 - [Mermaid]({{< relref "/docs/shortcodes/mermaid" >}})
 - [Tabs]({{< relref "/docs/shortcodes/tabs" >}})
-<br />
+-->
