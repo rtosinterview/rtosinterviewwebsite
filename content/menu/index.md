@@ -2,20 +2,15 @@
 headless: true
 ---
 
-- **RTOS**
-- [**Task Management**]({{< relref "/docs/example/table-of-contents" >}})
-- [**Critiical Section**]({{< relref "/docs/example/table-of-contents" >}})
-- [**Scheduling**]({{< relref "/docs/example/table-of-contents" >}})
-- [**Timers**]({{< relref "/docs/example/table-of-contents/with-toc" >}})
-- [**Interrupts**]({{< relref "/docs/example/table-of-contents/without-toc" >}})
-- [**Messageing**]({{< relref "/docs/example/collapsed" >}})
-<!---
-- **Shortcodes**
-- [Buttons]({{< relref "/docs/shortcodes/buttons" >}})
-- [Columns]({{< relref "/docs/shortcodes/columns" >}})
-- [Expand]({{< relref "/docs/shortcodes/expand" >}})
-- [Hints]({{< relref "/docs/shortcodes/hints" >}})
-- [Katex]({{< relref "/docs/shortcodes/katex" >}})
-- [Mermaid]({{< relref "/docs/shortcodes/mermaid" >}})
-- [Tabs]({{< relref "/docs/shortcodes/tabs" >}})
--->
+- [**RTOS**]({{< relref "/docs/rtos/rtos" >}})
+- [**Critiical Section**]({{< relref "/docs/rtos/rtos" >}})
+- [**Task Management**]({{< relref "/docs/rtos/rtos" >}})
+- [**Scheduling**]({{< relref "/docs/rtos/rtos" >}})
+- [**Interrupts**]({{< relref "/docs/rtos/rtos" >}})
+- [**Timers**]({{< relref "/docs/rtos/rtos" >}})
+- [**Time Mangement**]({{< relref "/docs/rtos/rtos" >}})
+- [**Semaphore**]({{< relref "/docs/rtos/rtos" >}})
+- [**Mutex**]({{< relref "/docs/rtos/rtos" >}})
+- [**Messageing**]({{< relref "/docs/rtos/rtos" >}})
+- [**Memory Management**]({{< relref "/docs/rtos/rtos" >}})
+
