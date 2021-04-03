@@ -3,14 +3,12 @@ headless: true
 ---
 
 - [**RTOS**]({{< relref "/docs/rtos/rtos" >}})
-- [**Critiical Section**]({{< relref "/docs/rtos/rtos" >}})
-- [**Task Management**]({{< relref "/docs/rtos/rtos" >}})
-- [**Scheduling**]({{< relref "/docs/rtos/rtos" >}})
-- [**Interrupts**]({{< relref "/docs/rtos/rtos" >}})
-- [**Timers**]({{< relref "/docs/rtos/rtos" >}})
-- [**Time Mangement**]({{< relref "/docs/rtos/rtos" >}})
-- [**Semaphore**]({{< relref "/docs/rtos/rtos" >}})
-- [**Mutex**]({{< relref "/docs/rtos/rtos" >}})
-- [**Messageing**]({{< relref "/docs/rtos/rtos" >}})
-- [**Memory Management**]({{< relref "/docs/rtos/rtos" >}})
+- [**Task**]({{< relref "/docs/rtos/task" >}})
+- [**Scheduler**]({{< relref "/docs/rtos/scheduler" >}})
+- [**Interrupts**](({{< relref "/docs/rtos/interrupts" >}}))
+- [**Timers**]({{< relref "/docs/rtos/timers" >}})
+- [**Synchronization**]({{< relref "/docs/rtos/sync" >}})
+- [**Mutex**]({{< relref "/docs/rtos/mutex" >}})
+- [**Messageing**]({{< relref "/docs/rtos/messaging" >}})
+- [**Memory Management**]({{< relref "/docs/rtos/memory" >}})
 
