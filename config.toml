@@ -1,8 +1,8 @@
+googleAnalytics = "G-1PBRM4HKRF"
 baseURL = "http://rtosinterview.github.io"
 languageCode = "en-us"
 title = "RTOS interview Questions"
 theme = "book"
-googleAnalytics = "G-1PBRM4HKRF"
 publishDir = "rtosinterview.github.io"
 
 
